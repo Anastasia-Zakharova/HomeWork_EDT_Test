@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="742b260a-0436-47f7-b1a8-241e0b04ebd9">
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="742b260a-0436-47f7-b1a8-241e0b04ebd9">
   <producedTypes>
     <objectType typeId="df12d85d-43d3-433b-8427-3d1f3147a3bb" valueTypeId="e126a41c-6ce7-4421-bb54-a257449adcbf"/>
     <refType typeId="624d7f22-ce7b-4878-a791-171fcbe484be" valueTypeId="5da0cb28-7782-450c-97da-8fd818302250"/>
@@ -42,4 +42,19 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
+  <attributes uuid="d2eb9bab-b462-4627-8256-e1db34861627">
+    <name>ВидДолжности</name>
+    <synonym>
+      <key>ru</key>
+      <value>Вид должности</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.ДЗ_ВидыДолжности</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
 </mdclass:Catalog>

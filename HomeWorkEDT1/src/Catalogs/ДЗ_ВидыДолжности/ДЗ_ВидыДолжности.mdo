@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9562bd00-e437-4ac4-a006-eec050dc5137">
+  <producedTypes>
+    <objectType typeId="a095c9fb-2477-4bf7-bfd6-ef7a0d7ab44f" valueTypeId="8126d38b-467e-4d31-96d2-c807a2e8df73"/>
+    <refType typeId="cf8be62f-cacb-4f15-818f-8b5d45d1aa5f" valueTypeId="c34ebece-6854-4d28-b1fb-1d0014ca9988"/>
+    <selectionType typeId="4987f59a-95c6-48fc-9836-76f7871d2563" valueTypeId="039d7155-680d-40a9-9868-7e06376a7cd2"/>
+    <listType typeId="8e2e1969-15e7-44be-befd-6fadeb24bef9" valueTypeId="9791c613-af27-4416-a8e8-34884e4d23a7"/>
+    <managerType typeId="f91cf438-fe2e-472d-a5f9-cd088bdedf50" valueTypeId="79d00a74-4857-4954-b070-3b05602e293a"/>
+  </producedTypes>
+  <name>ДЗ_ВидыДолжности</name>
+  <synonym>
+    <key>ru</key>
+    <value>Виды должности</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ДЗ_ВидыДолжности.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.ДЗ_ВидыДолжности.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

@@ -15,5 +15,6 @@
   <content>Catalog.ДЗ_КонтактныеЛица</content>
   <content>Catalog.ДЗ_Должности</content>
   <content>Catalog.ДЗ_ВидыДолжности</content>
+  <content>Catalog.ДЗ_Поставщики</content>
   <parentSubsystem>Subsystem.ПокупкиИПродажи</parentSubsystem>
 </mdclass:Subsystem>

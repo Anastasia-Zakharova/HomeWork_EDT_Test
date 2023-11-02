@@ -16,5 +16,6 @@
   <content>Catalog.ДЗ_Должности</content>
   <content>Catalog.ДЗ_ВидыДолжности</content>
   <content>Catalog.ДЗ_Поставщики</content>
+  <content>Catalog.ДЗ_Производители</content>
   <parentSubsystem>Subsystem.ПокупкиИПродажи</parentSubsystem>
 </mdclass:Subsystem>

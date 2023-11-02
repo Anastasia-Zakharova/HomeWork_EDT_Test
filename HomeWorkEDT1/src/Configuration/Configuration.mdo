@@ -1139,6 +1139,7 @@
   <catalogs>Catalog.ДЗ_Должности</catalogs>
   <catalogs>Catalog.ДЗ_ВидыДолжности</catalogs>
   <catalogs>Catalog.ДЗ_Поставщики</catalogs>
+  <catalogs>Catalog.ДЗ_Производители</catalogs>
   <documents>Document.ЗаказПокупателя</documents>
   <documents>Document.ОплатаОтПокупателя</documents>
   <documents>Document.ОплатаПоставщику</documents>
